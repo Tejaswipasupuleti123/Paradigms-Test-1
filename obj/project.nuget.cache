@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Om16MQ2m3T8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PASUPULETI .TEJASWI\\Documents\\Test Paradigms\\MyFSharpApp\\MyFSharpApp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PASUPULETI .TEJASWI\\.nuget\\packages\\fsharp.core\\8.0.301\\fsharp.core.8.0.301.nupkg.sha512"
+  ],
+  "logs": []
+}
